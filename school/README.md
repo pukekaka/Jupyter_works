@@ -4,3 +4,5 @@
 2. Data Analysis (Titanic Dataset) - titanic_analysis
 3. Decision Tree (Iris dataset) - iris_dt
 4. Cross Validation (Iris dataset) - iris_dt_cv
+5. Linear Regression (Boston House dataset) - boston_housing/linear_regression_bh.ipynb
+6. Kmeans(Iris dataset) - kmeans/kmeans_iris.ipynb
