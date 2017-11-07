@@ -6,4 +6,5 @@
 4. Cross Validation (Iris dataset) - iris_dt_cv 
 5. Linear Regression (Boston House dataset) - boston_housing/linear_regression_bh.ipynb 
 6. Kmeans(Iris dataset) - kmeans/kmeans_iris.ipynb
-7. Logistic Regression (Exercise 1) - logistic_test.ipynb
+7. Logistic Regression (Exercise 1) - logistic_regression/logistic_test.ipynb
+
